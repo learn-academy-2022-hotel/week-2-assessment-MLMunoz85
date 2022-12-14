@@ -21,7 +21,7 @@ const greeter = (name) => {
 // console.log(greeter("LEARN Student"))
 
 // a) Your answer: "LEARN Student"
-// b) Verify and explain: undefined, in order for "LEARN Student" to be displayed using string interpolation the string will need to be set to a variable. Then when you console log you would console.log(greeter(variableName)) for it to work.
+// b) Verify and explain: undefined, in order for "LEARN Student" to be displayed using string interpolation there needs to be a return in the code.
 
 // --------------------3) What will this log?
 
